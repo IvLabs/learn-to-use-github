@@ -14,7 +14,8 @@ Hope you are understanding this lecture well. I m your friendly repo.
 - Add your Name and GitHub username to the file `github_usernames.txt` in username folder. Eg. `Rohit Lal - take2rohit`
 
 
-## Contributers
+## Maintainers
 - Rohit Lal
 - Aditya Shirwatkar
+- Muhammed Abdullah
 - Aayush Fadia
