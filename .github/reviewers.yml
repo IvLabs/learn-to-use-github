@@ -1,0 +1,12 @@
+# https://github.com/marketplace/actions/auto-request-review
+reviewers:
+  # The default reviewers
+  defaults:
+   - lynx1902
+   - DigZator
+
+options:
+  ignore_draft: true
+  ignored_keywords:
+    - DO NOT REVIEW
+  number_of_reviewers: 5
