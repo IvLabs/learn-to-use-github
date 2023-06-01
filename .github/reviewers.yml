@@ -2,8 +2,8 @@
 reviewers:
   # The default reviewers
   defaults:
-   - lynx1902
-   - DigZator
+   - mayanklonkar
+   - codernakul
 
 options:
   ignore_draft: true
