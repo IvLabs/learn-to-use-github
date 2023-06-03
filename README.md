@@ -1,21 +1,22 @@
-# Hello everyone
-Welcome to
-```
-      _____     _           _         
-     |_   _|   | |         | |        
-       | |_   _| |     __ _| |__  ___ 
-       | \ \ / / |    / _' | '_ \/ __|
-      _| |\ V /| |___| (_| | |_) \__ \
-      \___/\_/ \_____/\__,_|_.__/|___/
-```
-Hope you are understanding this lecture well. I m your friendly repo. 
-### Task
-- Add a line to print your favourite movie name in `code.py` file `print(“The Avengers”)`
-- Add your Name and GitHub username to the file `github_usernames.txt` in username folder. Eg. `Rohit Lal - take2rohit`
-
+## Task
+Your task is to simply create a pull request to add a file in the repository
+- Fork this repository
+- Clone the forked repo onto your local drive using
+- Create a newfile in usernames directory bearing your username `your_github_username.txt` like `codernakul.txt`
+- Contents of the file should be `your_full_name - your_github_username` like `Nakul Singh - codernakul`
+- After this commit the changes bearing commit 
 
 ## Maintainers
 - Rohit Lal
 - Aditya Shirwatkar
 - Muhammed Abdullah
 - Aayush Fadia
+
+```
+.___      .____          ___.           
+|   |__  _|    |   _____ \_ |__   ______
+|   \  \/ /    |   \__  \ | __ \ /  ___/
+|   |\   /|    |___ / __ \| \_\ \\___ \ 
+|___| \_/ |_______ (____  /___  /____  >
+                  \/    \/    \/     \/ 
+```
