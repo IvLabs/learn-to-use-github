@@ -2,7 +2,6 @@
 reviewers:
   # The default reviewers
   defaults:
-   - mayanklonkar
    - codernakul
 
 options:
